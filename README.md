@@ -5,8 +5,6 @@ Vue + SpringBoot实现的博客系统
 
 ## ssr 服务端渲染版本 
 
-<a href="https://github.com/shimh-develop/blog-vue-springboot/tree/ssr" target="_blank">ssr分支</a>
-
 # 效果图
 
 ## 首页
